@@ -6,7 +6,7 @@ class App < Sinatra::Base
     enable :sessions
   end
 
-  get "/" do 
+  get "/" do
 
   end 
 end
